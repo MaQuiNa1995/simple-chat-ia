@@ -37,7 +37,7 @@ El lenguaje mas liviano que encontré es mistral:latest
 
 puedes ejecutar un promp directamente en la consola del contendor:
 
-`ollama run nombreModelo "prompt"
+`ollama run nombreModelo "prompt"`
 
 ## Java
 El codigo está con javadoc explicado pero lo mas importante para enganchar java y el contenedor son:
